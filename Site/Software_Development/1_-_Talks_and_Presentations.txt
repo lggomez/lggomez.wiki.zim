@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-31T20:13:27-03:00
+
+====== Talks and Presentations ======
+Created Thursday 31 December 2020
+
+==== 2016 ====
+* [[https://slides.com/luisgabrielgomez/charlagc-1|Garbage collection]] (spanish)
+This is an overview (for the complex ocean that garbage collection is) of garbage collection. Sadly, it never had its limelight, since the meetup group which was intended for broke up soon before I could have to opportunity to give this talk 

@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-31T20:13:35-03:00
+
+====== 1 - Talks and Presentations ======
+Created Thursday 31 December 2020
+
+These are my presentations given at the local golang meetup group in Buenos Aires. All presentations follow the [[https://pkg.go.dev/golang.org/x/tools/cmd/present|go present]] format
+Since the audience is latinamerican, most of this content is in spanish (and specified otherwise) 
+
+==== 2017 ====
+* [[https://go-talks.appspot.com/github.com/lggomez/go-talks/2017/go-dep.slide#1|Go meetup Buenos Aires 2017]] (spanish)
+
+==== 2018 ====
+* [[https://go-talks.appspot.com/github.com/lggomez/go-talks/2018/the-go-routine.slide#1|Go meetup Buenos Aires 2018]] (spanish)
+* [[https://go-talks.appspot.com/github.com/lggomez/go-talks/2018_misc/adv_data_types/8.slide#1|Small presentation on advanced data types]] (spanish)
+
+==== 2019 ====
+* [[https://go-talks.appspot.com/github.com/lggomez/go-talks/2019/12-18-MELI/gophers-attack.slide#1|Go meetup Buenos Aires 2019 II - 2019/12/18]] / [[https://github.com/lggomez/go-talks/tree/master/2019/12-18-MELI/example|examples]] (spanish)

@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-31T20:10:13-03:00
+
+====== 2 - golang ======
+Created Thursday 31 December 2020
+
