@@ -57,7 +57,9 @@ type Claims interface {
 The So, knowing this, we can implement our custom type, namely a copy of the fixed implementation of the jwtgo.MapClaims type (for reference, see https://github.com/dgrijalva/jwt-go/pull/385). This type complies with Claims interface and can be extended to advanced validations, like required and optional claims:
 
 {{{code: lang="go" linenumbers="True" use_highlightjs="True"
-type MyFixedClaims = jwtgoclaims.MapClaims // alias to subpackage containing the fixed claims implementation for clarity and easier replacement later on if the author is alive and decides to merge the pull request
+type MyFixedClaims = jwtgoclaims.MapClaims // alias to subpackage containing the fixed claims implementation
+// for clarity and easier replacement later on if the author
+// is alive and decides to merge the pull request
 
 type ClaimValue struct {
 	Value string
