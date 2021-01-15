@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2020-12-26T18:52:29-03:00
 
-====== Advanced excepcions in .NET ======
+====== Advanced exceptions in .NET ======
 Created Sunday 26 February 2017
 
 //**Note (December 2020): This is an article I wrote almost 4 years ago for my [[https://engineering.hexacta.com/advanced-exceptions-in-net-f68debf990c4|employer at that time]], and now migrated to this space with some minor corrections. **//
