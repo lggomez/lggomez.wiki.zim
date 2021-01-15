@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-01-15T20:34:28-03:00
+
+====== About RSS feed ======
+Created Friday 15 January 2021
+
+The RSS feed for this site is available at https://luisgg.me/rss.xml
+
+Since this site operates in a wiki structure and format, the RSS //is// the chronological index of the site entries by default, and thus the best way of seeing them in an ordered way. Another plus is the advantages the RSS readers may offer such as subscription for notifications on new entries
